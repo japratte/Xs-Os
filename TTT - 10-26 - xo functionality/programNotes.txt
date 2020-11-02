@@ -1,0 +1,5 @@
+add CPU functionality: choosing a random spot to place move
+add winning patterns
+add stat functionality
+
+change fonts
