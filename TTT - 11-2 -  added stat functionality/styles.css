@@ -1,0 +1,169 @@
+.body {
+    background-color: #1e262f;
+    font-family: arial;
+}
+
+.Titleh2 {
+    font-size: 45px;
+    color: #b1ff00;
+    padding: 5px;
+    text-align: center;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.score {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, 1fr;);
+    margin: 1em;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: #1e262f;
+    color: #b1ff00;
+    border: 2px solid #b1ff00;
+}
+
+
+.scoreh2 {
+    font-size: 30px;
+}
+
+.statsTitle {
+    grid-column: 1 / 5;
+}
+
+.score2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    margin: 1em;
+    justify-content: center;
+    align-content: center;
+    text-align: center; 
+    background-color: #1e262f;
+    color: white;
+    border: 2px solid #b1ff00;
+}
+
+.scoreboardBox1 {
+    grid-column:1;
+    margin-top: ;
+}
+
+.scoreboardBox2 {
+    margin-top: ;
+    grid-column: 2;
+    
+}
+
+.scoreboardBox3 {
+    margin-top:-15px;
+    grid-column: 1;
+    
+}
+
+.scoreboardBox4 {
+    margin-top: -15px;
+    grid-column: 2;
+    
+}
+
+.scoreboardBox5 {
+    margin-top: -15px;
+    grid-column: 1;
+    
+}
+
+.scoreboardBox6 {
+    margin-top: -15px;
+    grid-column: 2;
+    
+}
+
+.scoreboardBox7 {
+    margin-top: -15px;
+    grid-column: 1;
+    
+}
+
+.scoreboardBox8 {
+    margin-top: -15px;
+    grid-column: 2;
+    
+}
+
+
+.game {
+    
+    background-color: #1e262f;
+    padding: 2em;
+    margin-top: -10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+}
+
+table {
+  margin: 5px auto;
+}
+
+.vert {
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+
+.hori {
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+.square {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.t1 {
+    
+}
+
+.t2 {
+    
+}
+
+.t3 {
+    
+}
+
+.m1 {
+    
+}
+
+.m2 {
+    
+}
+
+.m3 {
+  
+}
+
+.b1 {
+    
+}
+
+.b2 {
+    
+}
+
+.b3 {
+    
+}
+
